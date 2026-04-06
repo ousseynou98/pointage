@@ -6,7 +6,7 @@
                 <!-- Logo -->
                 <div class="shrink-0 flex items-center">
                     <a href="{{ route('dashboard') }}">
-                    <img src="https://anam-senegal.site/wp-content/uploads/2025/02/anam.png" alt="Logo" class="h-10 w-auto mx-4">
+                    <img src="https://anam.gouv.sn/wp-content/uploads/2025/02/anam.png" alt="Logo" class="h-10 w-auto mx-4">
                     </a>
                 </div>
 
